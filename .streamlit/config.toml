@@ -1,0 +1,7 @@
+[theme]
+# Options are "small", "medium", or "large". Defaults to "medium".
+# You can also specify a pixel value, e.g., "16px"
+base="light"
+font="sans serif"
+# The small font size is 0.875rem (14px) by default
+fontSize="16px"
